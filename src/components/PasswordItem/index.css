@@ -1,0 +1,78 @@
+.yellow {
+  background-color: #f59e0b;
+}
+
+.green {
+  background-color: #10b981;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.lightgreen {
+  background-color: #14b896;
+}
+
+.meroon {
+  background-color: #b91c1c;
+}
+
+.blue {
+  background-color: #0e05e9;
+}
+
+.silver {
+  background-color: #647489;
+}
+
+.violet {
+  background-color: #7683cb;
+}
+
+.password-lists {
+  list-style: none;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #b6c3ca;
+  border-radius: 15px;
+  gap: 15px;
+  margin: 10px;
+}
+
+.image-list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  border-radius: 50%;
+  gap: 5px;
+}
+
+.image-start-text {
+  color: #f8fafc;
+}
+
+.pass-text {
+  font-size: 16px;
+  color: #f8fafc;
+  font-weight: 500;
+}
+
+.delete-btn {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn-img {
+  color: #f8fafc;
+  width: 16px;
+}
+
+.star-img {
+  width: 100px;
+}
